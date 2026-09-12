@@ -22,7 +22,7 @@ def welcome_assignment_answers(question):
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
         answer = int(3)
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
-        answer = "3f522c5571bc5779ddb3db9b48c0c630f8bd69024f446e3d382de60002ec6a4e *-"
+        answer = "3f522c5571bc5779ddb3db9b48c0c630f8bd69024f446e3d382de60002ec6a4e"
     
     else:
         ### you should understand why this else case should be included
